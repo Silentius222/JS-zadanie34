@@ -8,10 +8,10 @@ function funkcja(zmienna1, zmienna2) {
   let dlugosc2 = zmienna2.length
 
     if (dlugosc1 < dlugosc2) {
-        return zmienna1;
+        return zmienna2;
     }
     else {
-        return zmienna2;
+        return zmienna1;
     }
 }
 
